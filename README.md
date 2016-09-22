@@ -3,7 +3,7 @@
 
 Name: `Mofei_Wang`
 
-ONID ID: `932988247`
+ONID ID: `wangmo`
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
